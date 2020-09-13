@@ -1,0 +1,108 @@
+.shop{
+   margin-bottom: 20px;;
+}
+.shop .container-fluid {
+        width: 100%;
+        padding-top:140px ;
+        text-align:center;
+ }
+  h1 span {
+    display: block;
+    color: #c96;
+    font-size: 1.6rem;
+    margin-top: .8rem;
+}
+.breadcrumb li a{
+color: burlywood;
+font-size: 19px;
+}
+.breadcrumb .active{
+    font-size: 19px;;
+}
+/*shopes*/
+.shopes{
+    padding: 50px;
+    height: auto;
+}
+.shopes-tittle{
+    background-color:#f4f0ed;
+    position: absolute;
+    /*width: 70%;
+    height: 90px;
+    text-align: center;*/
+   /* margin:0px 30px 0 20px;
+    top:10px;*/
+    /*top:90px;*/
+  z-index: 9999;
+  text-align:center;
+}
+
+.shopes-img{
+  position: relative;
+  
+}
+.st-1{
+    top:20px;
+    margin-left: 50px;
+}
+.st-2{
+    top:70px;
+    padding-right: 6px;
+    margin-left: 15px;
+    padding-left: 5px;
+}
+.st-3{
+    top:190px;
+
+    margin-left: 10px;
+}
+.st-4{
+    top:90px;
+    padding: 4px;
+    margin-left: 40px;
+}
+.st-5{
+    top:300px;
+    margin-left: 40px;
+    padding: 4px;
+}
+.st-6{
+    top:60px;
+    margin-left: 10px;
+    padding: 4px;
+}
+.st-7{
+    top:90px;
+
+}
+.st-8{
+    top:270px;
+    padding: 5px;
+}
+/*contact*/
+.contact{
+    padding-top: 40px;
+    height: auto;
+    overflow: hidden;
+  
+ }
+ 
+ .menu li a{
+    color: #000;
+ }
+ .menu a{
+     text-decoration:none;
+     font-size: 13px;
+ }
+ .widgett h5{
+    color: #222;
+    font-family: 'Lato', sans-serif;
+    font-weight: 740;
+ }
+ .contact .p-sm{
+ color: #c5d1dc; 
+ font-size: 18px;
+  margin-top: 20px;
+ }
+ 
+ 

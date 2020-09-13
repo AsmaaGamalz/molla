@@ -1,0 +1,217 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import 'aos/dist/aos.css';
+
+.sprite-img-1{
+    background-image:url('assets/product-1 (1).jpg');
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    
+    }
+    .sprite-img-11{
+        transition: all 0.5s;
+        background-position: center -3px;
+    }
+    .sprite-item:hover .sprite-img-11{
+        background-image:url('assets/product-1-2.jpg');
+        height: 400px;
+        background-size: cover;
+        width: 100%;
+        background-position: center -9px;
+      
+    }
+
+
+    
+
+.sprite-img-2{
+background-image:url('assets/product-2 (1).jpg');
+height: 400px;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+}
+.sprite-img-22{
+    transition: all 0.5s;
+    background-position: center -3px;
+}
+.sprite-item:hover .sprite-img-22{
+    background-image:url('assets/product-2-2.jpg');
+    height: 400px;
+    background-size: cover;
+    width: 100%;
+    background-position: center -9px;
+}
+
+
+
+
+    .sprite-img-3{
+        background-image:url('assets/product-3.jpg');
+        height: 400px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+       
+        }
+
+        
+        .sprite-img-33{
+            transition: all 0.5s;
+            background-position: center -3px;
+        }
+        .sprite-item:hover .sprite-img-33{
+            background-image:url('assets/product-3-2.jpg');
+            height: 400px;
+            background-size: cover;
+            width: 100%;
+            background-position: center -9px;
+        }
+    
+
+        
+        
+    .sprite-img-4{
+        background-image:url('assets/product-4.jpg');
+        height: 400px;
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+        }
+        .sprite-img-44{
+            transition: all 0.5s;
+            background-position: center -3px;
+        }
+        .sprite-item:hover .sprite-img-44{
+            background-image:url('assets/product-4-2.jpg');
+            height: 400px;
+            background-size: cover;
+            width: 100%;
+            margin:auto;
+            background-position: center -9px;
+        }
+
+
+        .sprite-img-5{
+            background-image:url('assets/product-10-2.jpg');
+            height: 400px;
+            background-repeat: no-repeat;
+            background-size: cover;
+           
+            }
+            .sprite-img-55{
+                transition: all 0.5s;
+                background-position: center -3px;
+            }
+            .sprite-item:hover .sprite-img-55{
+                background-image:url('assets/product-10-1.jpg');
+                height: 400px;
+                background-size: cover;
+                width: 100%;
+                margin:auto;
+                background-position: center -9px;
+            }
+
+
+
+            .sprite-img-6{
+                background-image:url('assets/product-11-1.jpg');
+                height: 400px;
+                background-repeat: no-repeat;
+                background-size: cover;
+               
+                }
+                .sprite-img-66{
+                    transition: all 0.5s;
+                    background-position: center -3px;
+                }
+                .sprite-item:hover .sprite-img-66{
+                    background-image:url('assets/product-11-2.jpg');
+                    height: 400px;
+                    background-size: cover;
+                    width: 100%;
+                    margin:auto;
+                    background-position: center -9px;
+                }
+
+
+                .sprite-img-7{
+                    background-image:url('assets/product-8-1.jpg');
+                    height: 400px;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                   
+                    }
+                    .sprite-img-77{
+                        transition: all 0.5s;
+                        background-position: center -3px;
+                    }
+                    .sprite-item:hover .sprite-img-77{
+                        background-image:url('assets/product-8-2.jpg');
+                        height: 400px;
+                        background-size: cover;
+                        width: 100%;
+                        margin:auto;
+                        background-position: center -9px;
+                    }
+
+
+                   
+
+
+
+                    .sprite-img-8{
+                        background-image:url('assets/product-12-1.jpg');
+                        height: 400px;
+                        background-repeat: no-repeat;
+                        background-size: cover;
+                       
+                        }
+                        .sprite-img-88{
+                            transition: all 0.5s;
+                            background-position: center -3px;
+                        }
+                        .sprite-item:hover .sprite-img-88{
+                            background-image:url('assets/product-12-2.jpg');
+                            height: 400px;
+                            background-size: cover;
+                            width: 100%;
+                            margin:auto;
+                            background-position: center -9px;
+                        }
+
+.carousel-item-1{
+    background-image:url('assets/slide-1.jpg');
+    height: 400px;
+}
+.carousel-item-2{
+    background-image:url('assets/slide-2.jpg');
+    height: 400px;
+}
+
+.video{
+    background-image:url('assets/bg-2.jpg');
+height: 500px;
+text-align:center;
+margin-top: 90px;
+margin-bottom: 100px;
+padding: 15px;
+}
+.shop{
+    background-image:url('assets/page-header-bg.jpg');
+    height: 300px;
+
+}
+.About{
+    background-image:url('assets/about-header-bg.jpg');
+    height: 450px; 
+   
+}
+.conttact{
+    background-image:url('assets/login-bg (1).jpg');
+    height: 450px;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

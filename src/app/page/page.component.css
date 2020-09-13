@@ -1,0 +1,40 @@
+.conttact{
+    padding:60px;
+    height: auto;
+  
+}
+.lowercase{
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+    font-size: 24px;
+}
+.conttact .btn{
+   
+    border-radius: 8px;
+    font-weight: 700;
+    padding:3px;
+   
+    
+}
+.conttact  a{
+    color:white;
+    font-family: "Open Sans", sans-serif;
+   padding: 16px;
+} 
+.contact-text{
+    color:#fff;
+    font-size: 18px;
+}
+.footer{
+    background-color:black;
+  padding:30px;
+       color: #b0b0b0;
+      height: auto;
+   }
+   .the a{
+    color:white;
+}
+.the a:hover{
+     color: rgb(255, 48, 91);
+}
